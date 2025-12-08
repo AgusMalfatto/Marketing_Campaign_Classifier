@@ -80,9 +80,9 @@ El proyecto incorpora una variedad de técnicas de análisis y modelado:
 ---
 
 ## 📁 Estructura del Repositorio
-
-├── Mod3.ipynb                # Notebook principal del proyecto
-├── Models/                   # Carpeta para almacenar el dataset procesado y los modelos entrenados
-├── Datasets/                 # Dataset original
-├── requirements.txt          # Dependencias del proyecto
-└── README.md                 # Documentación del proyecto
+<pre>
+├── Mod3.ipynb                # Notebook principal del proyecto <br>
+├── Models/                   # Carpeta para almacenar el dataset procesado y los modelos entrenados <br>
+├── Datasets/                 # Dataset original <br>
+├── requirements.txt          # Dependencias del proyecto <br>
+└── README.md                 # Documentación del proyecto <br>
